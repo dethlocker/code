@@ -12,7 +12,7 @@ __copyright__ = "Copyleft 2022, Felix Alcala"
 __credits__ = ["Felix Alcala"]
 __license__ = "GPL"
 __version__ = "1.0b"
-__maintainer__ = "dthlocker"
+__maintainer__ = "dethlocker"
 __email__ = "dethlocker@0xdeadbeef.ai"
 __status__ = "DevSoup"
 
